@@ -1,0 +1,18 @@
+body
+{
+	padding: 10px;
+	margin: 40px;
+	font-size: 24px;
+	font-family: Helvetica;
+	background-image: url(https://wallpapermemory.com/uploads/804/planets-background-hd-3200x2048-153351.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: orangered
+}
+
+nav
+{
+	background-color: white;
+	padding: 0px;
+	color:yellowgreen
+}
